@@ -23,8 +23,6 @@ Olá! Meu nome é Wellington Dos Santos, e este é o meu cantinho no GitHub. Aqu
   </tr>
 </table>
 
-
-
 ## Projetos Destacados
 
 Aqui estão alguns dos meus projetos favoritos:
@@ -42,7 +40,6 @@ Aqui estão alguns dos meus projetos favoritos:
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](link_para_o_seu_perfil_no_facebook)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](link_para_o_seu_perfil_no_instagram)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](link_para_o_seu_perfil_no_linkedin)
-[![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](link_para_o_seu_canal_no_youtube)
 
 ### Informações do Projeto
 
