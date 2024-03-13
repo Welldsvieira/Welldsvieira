@@ -2,6 +2,7 @@
 
 Olá! Meu nome é Wellington Dos Santos, e este é o meu cantinho no GitHub. Aqui você encontrará uma variedade de projetos e contribuições que refletem minha paixão por tecnologia e desenvolvimento. Desde pequenos scripts até projetos de maior escala, estou sempre buscando aprender e colaborar com a comunidade.
 
+🌐 **Links Externos**: [Portfólio Pessoal](https://welldsvieira.github.io/portfolio_pessoal/)
 ## Sobre Mim
 
 - 🌱 Atualmente, estou aprendendo html, css, javascript e bootstrap.
