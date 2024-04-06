@@ -35,7 +35,7 @@ Aqui estão alguns dos meus projetos favoritos:
 ## Redes Sociais
 
 [![Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://welldsvieira.github.io/website_pessoal/)
-[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]([link_para_o_seu_whatsapp]https://wa.me/5585992613668?text=Ol%C3%A1%20Wellington%20!)
+[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5585992613668?text=Ol%C3%A1%20Wellington%20!)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:welldsvieira@gmail.com)
 [![Behance Badge](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](http://www.behance.net/welldsvieira)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/welldsvieira/)
